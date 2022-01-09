@@ -1,24 +1,37 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.69af5128.css",
-    "main.js": "/myportfolio/static/js/main.96e9600e.js",
+    "main.css": "/myportfolio/static/css/main.d05e843a.css",
+    "main.js": "/myportfolio/static/js/main.5eb160cb.js",
     "static/js/787.d654f937.chunk.js": "/myportfolio/static/js/787.d654f937.chunk.js",
+    "static/media/koovsimg.png": "/myportfolio/static/media/koovsimg.d989123c7ce767f95ce3.png",
+    "static/media/faasosimg.png": "/myportfolio/static/media/faasosimg.817b1ec9b864a2308e90.png",
     "static/media/ProfilePic.png": "/myportfolio/static/media/ProfilePic.8f6316d5c12f3c30657b.png",
     "static/media/Macintosh-Best-Wallpaper-84480.jpg": "/myportfolio/static/media/Macintosh-Best-Wallpaper-84480.f90885057f8fe309e823.jpg",
+    "static/media/Modern-Tech-Best-Wallpaper-35665.jpg": "/myportfolio/static/media/Modern-Tech-Best-Wallpaper-35665.c10d7d44d8907d99b18b.jpg",
     "static/media/Poppins-Thin.ttf": "/myportfolio/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
     "static/media/Poppins-Light.ttf": "/myportfolio/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
     "static/media/Poppins-Regular.ttf": "/myportfolio/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
     "static/media/Poppins-Medium.ttf": "/myportfolio/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
     "static/media/Poppins-SemiBold.ttf": "/myportfolio/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/jsimg.jpg": "/myportfolio/static/media/jsimg.803cbb1c3a4beb48ac3f.jpg",
     "static/media/Poppins-Bold.ttf": "/myportfolio/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
     "static/media/Poppins-ExtraBold.ttf": "/myportfolio/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/mailz.jpeg": "/myportfolio/static/media/mailz.d13d5e32cbc73884b526.jpeg",
+    "static/media/Reactlogo.png": "/myportfolio/static/media/Reactlogo.a56f333fcf449478d815.png",
+    "static/media/gitimg.jpg": "/myportfolio/static/media/gitimg.e1137ba7d5aa3043b646.jpg",
+    "static/media/nodejslogo.jpg": "/myportfolio/static/media/nodejslogo.36f7c873d62044f0ddb4.jpg",
+    "static/media/bootstrapimg.jpg": "/myportfolio/static/media/bootstrapimg.bd2f57da752e7e23a69e.jpg",
+    "static/media/csslogo2.png": "/myportfolio/static/media/csslogo2.0c185e2b2ae87407b760.png",
+    "static/media/Reduximg.jpg": "/myportfolio/static/media/Reduximg.63cbd8b0b5eb3f8b05a6.jpg",
+    "static/media/html5logo.png": "/myportfolio/static/media/html5logo.23784160d848f734c302.png",
+    "static/media/mongodblogo.png": "/myportfolio/static/media/mongodblogo.909c449de1a2e13f24cb.png",
     "index.html": "/myportfolio/index.html",
-    "main.69af5128.css.map": "/myportfolio/static/css/main.69af5128.css.map",
-    "main.96e9600e.js.map": "/myportfolio/static/js/main.96e9600e.js.map",
+    "main.d05e843a.css.map": "/myportfolio/static/css/main.d05e843a.css.map",
+    "main.5eb160cb.js.map": "/myportfolio/static/js/main.5eb160cb.js.map",
     "787.d654f937.chunk.js.map": "/myportfolio/static/js/787.d654f937.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.69af5128.css",
-    "static/js/main.96e9600e.js"
+    "static/css/main.d05e843a.css",
+    "static/js/main.5eb160cb.js"
   ]
 }
