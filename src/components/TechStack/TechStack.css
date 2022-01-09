@@ -1,0 +1,33 @@
+.techstack{
+    background-color: white;
+}
+.techstack-container{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+.techstack-heading>h1{
+    text-align: center;
+    margin: 100px;
+    font-weight: 600;
+}
+.techstack-heading2>h1{
+    text-align: center;
+    margin: 30px;
+    font-weight: 400;
+}
+
+.techstack-frontend, .techstack-backend{
+    display: flex;
+    margin: auto;
+}
+.techstack-frontend>img, .techstack-backend>img{
+    width: 100px;
+    margin: 5px;
+    background-color: aliceblue;
+
+}
+.techstack-backend{
+    margin-bottom: 100px;
+}

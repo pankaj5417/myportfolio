@@ -1,19 +1,21 @@
 import { Link } from "react-router-dom";
-
+import "./Navbar.css"
 export const Navbar = () => {
   return (
-    <div>
-      <Link to="/">Home</Link>
-      <Link to="/about" style={{ margin: "10px" }}>
+    <div className="navbar">
+      <a href="#profile">Home</a>
+      <a href="#about" style={{ margin: "10px" }}>
         About
-      </Link>
-      <Link to="/contactus" style={{ margin: "10px" }}>
-        Contact
-      </Link>
-      <Link to="/users" style={{ margin: "10px" }}>
-        Users
-      </Link>
-      <Link to="/profile">Profile</Link>
+      </a>
+      <a href="#project" style={{ margin: "10px" }}>
+        Project
+      </a>
+      
+      <a href="#techStack">Technicall skills</a>
+
+      <a href="#contact" style={{ margin: "10px" }}>
+        Contact Me
+      </a>
     </div>
   );
 };

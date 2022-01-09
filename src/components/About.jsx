@@ -2,7 +2,7 @@ import React from 'react'
 import "./About.css"
 export default function About() {
     return (
-        <div className='about'>
+        <div className='about' id='about'>
         <div className='about-container'>
         <div className='aboutme-text'>
            <h1>About Me</h1>
@@ -13,11 +13,13 @@ export default function About() {
             </div>
             <div className='aboutme-text-section'>
             <div className='about-me-summary'>
-                <p>Full stack web and mobile developer with background 
+                <p>An aspiring Full stack web  developer with background 
                     knowledge of MERN stacks with redux, along with a 
-                    knack of building applications with utmost efficiency. 
-                    Strong professional with a BSC willing to be an asset 
-                    for an organization.</p>
+                    knack of building applications with utmost efficiency
+                    moulded and shaped by Masai school’s intensive and immersive
+                    learning.Look forward to joining a company where I will 
+                     be able to contribute towards individual and company growth.
+</p>
             </div>
             <div className='about-me-highlight'>
                 <h3>Here are a Few Highlights:</h3>

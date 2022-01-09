@@ -5,7 +5,7 @@ import "./Profile.css"
 
 export default function Profile() {
   return (
-    <div className="profile-container">
+    <div className="profile-container" id="profile">
       <div className="profile-parent">
         <div className="profile-details">
             
@@ -15,11 +15,11 @@ export default function Profile() {
               <i className="fa fa-twitter-square"></i>
               </Link>
               
-              <Link to="#">
+              <a href="https://www.linkedin.com/in/pk-pankajkumar">
               <i className="fa fa-linkedin-square"></i>
-              </Link><Link to="#">
+              </a><a href="https://github.com/pankaj5417">
               <i className="fa fa-github-square"></i>
-              </Link>
+              </a>
 
           </div>
             

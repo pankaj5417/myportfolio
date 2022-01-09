@@ -18,3 +18,12 @@
   --toast-success: #0CBFAE;
   --loader-color: #0CBFAE
 }
+
+.home-container{
+  display: flex;
+  flex-direction:column ;
+  justify-content: space-between;
+  min-height: 670px;
+  background-image: url("./assets/Home/Modern-Tech-Best-Wallpaper-35665.jpg");
+
+}
