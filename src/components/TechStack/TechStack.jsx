@@ -19,6 +19,10 @@ export default function TechStack() {
         <div className='techstack' id='techStack'>
             <div className='techstack-heading'>
                 <h1>Technical Skills</h1>
+                <div className='dash'>
+           <div className='hr-line'></div ><div className='hr-line-orange'></div><div className='hr-line'></div>
+
+           </div>
             </div>
             
             <div className='techstack-container'>
@@ -48,6 +52,10 @@ export default function TechStack() {
             </div>
             <div className='techstack-heading'>
                 <h1>Projects</h1>
+                <div className='dash'>
+           <div className='hr-line'></div ><div className='hr-line-orange'></div><div className='hr-line'></div>
+
+           </div>
             </div>
 
             

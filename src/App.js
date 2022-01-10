@@ -9,16 +9,20 @@ import Projects from './components/Projects/Projects';
 import About from './components/About';
 import TechStack from './components/TechStack/TechStack';
 import Contact from './components/contact/Contact';
+import Particle2 from './components/Projects/Particle2';
+import Particles from "react-tsparticles";
 
 function App() {
   return (
     <div className="App ">
      
       <div className='home-container'>
+      
       <Navbar />
-
+       
       <Profile />
       <Footer />
+      
     <About />
     <TechStack />
 

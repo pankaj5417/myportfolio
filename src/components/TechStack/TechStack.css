@@ -9,18 +9,21 @@
 }
 .techstack-heading>h1{
     text-align: center;
-    margin: 100px;
+    margin: 50px;
     font-weight: 600;
 }
 .techstack-heading2>h1{
     text-align: center;
-    margin: 30px;
+    margin-bottom: 30px;
     font-weight: 400;
 }
 
 .techstack-frontend, .techstack-backend{
     display: flex;
     margin: auto;
+}
+.techstack-frontend{
+    margin-bottom: 30px;
 }
 .techstack-frontend>img, .techstack-backend>img{
     width: 100px;
@@ -29,5 +32,4 @@
 
 }
 .techstack-backend{
-    margin-bottom: 100px;
 }

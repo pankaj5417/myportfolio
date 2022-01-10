@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import "./Navbar.css"
 export const Navbar = () => {
   return (
+    <div className="navbar-container">
     <div className="navbar">
       <a href="#profile">Home</a>
       <a href="#about" style={{ margin: "10px" }}>
@@ -16,6 +17,7 @@ export const Navbar = () => {
       <a href="#contact" style={{ margin: "10px" }}>
         Contact Me
       </a>
+    </div>
     </div>
   );
 };

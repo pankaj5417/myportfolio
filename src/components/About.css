@@ -1,11 +1,12 @@
 
 .about{
     background-color: white;
+    z-index: 1;
 }
 .aboutme-text>h1{
     text-align: center;
     font-weight: 600;
-    margin: 100px;
+    margin: 50px;
 }
 ul {
     list-style: none;
@@ -40,4 +41,23 @@ ul {
   }
   .aboutme-text-section{
       width: 60%;
+  }
+  .hr-line{
+      width: 100px;
+      height: 2px;
+      background-color: black;
+  }
+  .hr-line-orange{
+      width: 40px;
+      height: 8px;
+      border-radius: 20px;
+      background-color:#ff5823 ;
+      text-align: center;
+  }
+  .dash{
+      display: flex;
+      margin: auto;
+      width: 240px;
+      align-items: center;
+      margin-bottom: 50px;
   }

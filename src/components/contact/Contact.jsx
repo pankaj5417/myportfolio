@@ -51,8 +51,15 @@ export default function Contact(props) {
       <div className="contact-heading">
        
         <h1> Contact Me</h1>
-      
+           
        <h5>Let's keep in touch</h5>
+
+       <div className='dash'>
+
+       <div className='hr-line'></div ><div className='hr-line-orange'></div><div className='hr-line'></div>
+
+           </div>
+      
 
       </div>
       <div className="contact-container">

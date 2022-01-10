@@ -2,6 +2,7 @@
 .contact{
     background-color: white;
     padding-bottom: 100px;
+    z-index: 3;
 }
 .contact-container{
     display: flex;

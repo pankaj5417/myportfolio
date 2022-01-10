@@ -6,7 +6,13 @@ export default function About() {
         <div className='about-container'>
         <div className='aboutme-text'>
            <h1>About Me</h1>
+           <div className='dash'>
+           <div className='hr-line'></div ><div className='hr-line-orange'></div><div className='hr-line'></div>
+
+           </div>
+
         </div>
+
         <div className='aboutme-container'>
             <div className='aboutme-img'>
                 <img src={require('../assets/Home/ProfilePic.png')} alt="" />
