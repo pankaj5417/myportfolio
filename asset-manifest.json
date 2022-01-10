@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.d05e843a.css",
-    "main.js": "/myportfolio/static/js/main.5eb160cb.js",
+    "main.css": "/myportfolio/static/css/main.dd0f8e43.css",
+    "main.js": "/myportfolio/static/js/main.302fab78.js",
     "static/js/787.d654f937.chunk.js": "/myportfolio/static/js/787.d654f937.chunk.js",
     "static/media/koovsimg.png": "/myportfolio/static/media/koovsimg.d989123c7ce767f95ce3.png",
     "static/media/faasosimg.png": "/myportfolio/static/media/faasosimg.817b1ec9b864a2308e90.png",
@@ -16,6 +16,7 @@
     "static/media/jsimg.jpg": "/myportfolio/static/media/jsimg.803cbb1c3a4beb48ac3f.jpg",
     "static/media/Poppins-Bold.ttf": "/myportfolio/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
     "static/media/Poppins-ExtraBold.ttf": "/myportfolio/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/PC-Mouse-Images-02845.jpeg": "/myportfolio/static/media/PC-Mouse-Images-02845.2720ceeccb590613565a.jpeg",
     "static/media/mailz.jpeg": "/myportfolio/static/media/mailz.d13d5e32cbc73884b526.jpeg",
     "static/media/Reactlogo.png": "/myportfolio/static/media/Reactlogo.a56f333fcf449478d815.png",
     "static/media/gitimg.jpg": "/myportfolio/static/media/gitimg.e1137ba7d5aa3043b646.jpg",
@@ -26,12 +27,12 @@
     "static/media/html5logo.png": "/myportfolio/static/media/html5logo.23784160d848f734c302.png",
     "static/media/mongodblogo.png": "/myportfolio/static/media/mongodblogo.909c449de1a2e13f24cb.png",
     "index.html": "/myportfolio/index.html",
-    "main.d05e843a.css.map": "/myportfolio/static/css/main.d05e843a.css.map",
-    "main.5eb160cb.js.map": "/myportfolio/static/js/main.5eb160cb.js.map",
+    "main.dd0f8e43.css.map": "/myportfolio/static/css/main.dd0f8e43.css.map",
+    "main.302fab78.js.map": "/myportfolio/static/js/main.302fab78.js.map",
     "787.d654f937.chunk.js.map": "/myportfolio/static/js/787.d654f937.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d05e843a.css",
-    "static/js/main.5eb160cb.js"
+    "static/css/main.dd0f8e43.css",
+    "static/js/main.302fab78.js"
   ]
 }
