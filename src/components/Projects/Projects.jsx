@@ -23,50 +23,40 @@ function Projects() {
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           
-        <Col md={4} className="project-card">
+        <Col md={6} className="project-card">
             <ProjectCards
               imgPath={koovsimg}
               isBlog={false}
               title="Koovs.com Clone"
-              description={<div><h5>This is the Clone of Koovs.com an online fashion and clothing store.
+              description={<div className="project-card-text"><p>This is the Clone of Koovs.com an online fashion and clothing store.
                 We were a team of four members and made this project in 5 days during the Unit-2 construct week 
                 at Masai School.This website have cool features like user authentication,sorting ,filtering ,
-                360 degree view of product,coupons and many more.This website is also made responsive. </h5>
-                <h2>Tech Stack:</h2><p>HTML5, CSS, JAVASCRIPT</p></div>}
-              link=" https://pankaj5417.github.io/koovs/"
-              link2="https://github.com/pankaj5417/koovs.git"
+                360 degree view of product,coupons and many more.This website is also made responsive. </p>
+                <h3>Tech Stack:</h3><p>HTML5, CSS, JAVASCRIPT</p></div>}
+              link=" https://pankaj5417.github.io/koovs/" target="_blank"
+              link2="https://github.com/pankaj5417/koovs.git" target="_blank"
 
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          <Col md={6} className="project-card">
             <ProjectCards
               imgPath={faasosimg}
               isBlog={false}
               title="Faasos.com Clone"
-              description={<div><h5>This is the Clone of Faasos.com an online food delivery web app.
+              description={<div  className="project-card-text"><p>This is the Clone of Faasos.com an online food delivery web app.
                 We were a team of 7 members and made this web app in 7 days during the Unit-3 construct
                  week at Masai School.This website consists of many cool functalities like filtering ,
-                  search with debouncing,api,location based address,coupon and many more.  </h5>
-                  <h2>Tech Stack:</h2> <p>HTML5,CSS,JAVASCRIPT,API,MOCK SERVER</p></div>}
-              link="https://pankaj5417.github.io/Faasos-clone/"
-              link2="https://github.com/pankaj5417/Faasos-clone.git"
+                  search with debouncing,api,location based address,coupon and many more.  </p>
+                  <h3>Tech Stack:</h3> <p>HTML5,CSS,JAVASCRIPT,API,MOCK SERVER</p></div>}
+              link="https://pankaj5417.github.io/Faasos-clone/" target="_blank"
+              link2="https://github.com/pankaj5417/Faasos-clone.git" target="_blank"
             />
           </Col>
 
           
 
-          <Col md={4} className="project-card">
-            <ProjectCards
-              imgPath={faasosimg}
-              isBlog={false}
-              title="Faasos.com Clone"
-              description=""
-              link="https://pankaj5417.github.io/Faasos-clone/"
-              link2="https://github.com/pankaj5417/FaasosClone2.git"
-
-            />
-          </Col>
+          
         </Row>
       </Container>
     </Container>

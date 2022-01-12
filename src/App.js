@@ -11,6 +11,8 @@ import TechStack from './components/TechStack/TechStack';
 import Contact from './components/contact/Contact';
 import Particle2 from './components/Projects/Particle2';
 import Particles from "react-tsparticles";
+import Navbar2 from './components/Navbar2';
+import Contact2 from './components/contact/Contact2';
 
 function App() {
   return (
@@ -18,7 +20,7 @@ function App() {
      
       <div className='home-container'>
       
-      <Navbar />
+      <Navbar2 />
        
       <Profile />
       <Footer />
@@ -28,7 +30,7 @@ function App() {
 
     <Projects />
     <Footer />
-    <Contact />
+    <Contact2 />
 
     </div>
 
@@ -45,7 +47,7 @@ function App() {
             
      
 
-       <Route path="*" element={<div>Not found</div> }></Route>
+      {/* <Route path="*" element={<div>Not found</div> }></Route>*/}
 
     </Routes>
      

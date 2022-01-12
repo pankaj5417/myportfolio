@@ -15,7 +15,7 @@ export default function About() {
 
         <div className='aboutme-container'>
             <div className='aboutme-img'>
-                <img src={require('../assets/Home/ProfilePic.png')} alt="" />
+                <img src={require('../assets/about.png')} alt="" />
             </div>
             <div className='aboutme-text-section'>
             <div className='about-me-summary'>
@@ -25,7 +25,7 @@ export default function About() {
                     moulded and shaped by Masai school’s intensive and immersive
                     learning.Look forward to joining a company where I will 
                      be able to contribute towards individual and company growth.
-</p>
+           </p>
             </div>
             <div className='about-me-highlight'>
                 <h3>Here are a Few Highlights:</h3>
@@ -41,10 +41,14 @@ export default function About() {
                 </ul>
             </div>
             <div className="profile-options">
+                <a href='#contact'>
+
+                
               <button className="btn primary-btn">
                   {""}
                   Hire Me{" "}
               </button>
+              </a>
               <a href="fw12_032_Pankaj_kumar.pdf">
                   <button className="btn highlighted-btn">Get Resume</button>
               </a>

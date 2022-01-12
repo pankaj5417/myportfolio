@@ -61,3 +61,19 @@ ul {
       align-items: center;
       margin-bottom: 50px;
   }
+  @media screen and (max-width:1110px){
+     .aboutme-img>img{
+         display: none;
+     } 
+     .aboutme-text-section{
+        margin-left: -8.5rem;
+
+        width: 100%;
+     }
+     .about-me-highlight>h3{
+         font-size: 20px;
+     }
+      .about-me-highlight>ul{
+        margin-left: -3rem;
+      }
+  }

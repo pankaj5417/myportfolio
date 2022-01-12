@@ -12,13 +12,13 @@ export default function Profile() {
             
           <div className="colz">
           <div className="colz-icon">
-            <Link to="#">
+           {/* <Link to="#">
               <i className="fa fa-twitter-square"></i>
               </Link>
-              
-              <a href="https://www.linkedin.com/in/pk-pankajkumar">
+  */}
+              <a href="https://www.linkedin.com/in/pk-pankajkumar" target="_blank">
               <i className="fa fa-linkedin-square"></i>
-              </a><a href="https://github.com/pankaj5417">
+              </a><a href="https://github.com/pankaj5417"  target="_blank">
               <i className="fa fa-github-square"></i>
               </a>
 
@@ -39,10 +39,10 @@ export default function Profile() {
                       {" "}
                       <Typical loop={Infinity}
                       steps={[
-                          "Enthusiastic Dev",1000,
-                          "Full Stack Developer",1000,
-                          "MERN Stack Dev",1000,
-                          "React/Redux Dev",1000,
+                          "Enthusiastic Dev 😎",1000,
+                          "Full Stack Developer💻",1000,
+                          "MERN Stack Dev 🔴",1000,
+                          "React/Redux Dev ⚛️",1000,
                       ]}  />
 
                   </h1>
@@ -52,10 +52,13 @@ export default function Profile() {
               </span>
           </div>
           <div className="profile-options">
+            <a href="#contact">
+
               <button className="btn primary-btn">
                   {""}
                   Hire Me{" "}
               </button>
+            </a>
               <a href="fw12_032_Pankaj_kumar.pdf">
                   <button className="btn highlighted-btn">Get Resume</button>
               </a>

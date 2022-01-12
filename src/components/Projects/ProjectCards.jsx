@@ -9,15 +9,15 @@ function ProjectCards(props) {
       <Card.Img variant="top" src={props.imgPath} alt="card-img" />
       <Card.Body>
         <Card.Title>{props.title}</Card.Title>
-        <Card.Text style={{ textAlign: "justify" }}>
+        <Card.Text style={{ }}>
           {props.description}
         </Card.Text>
         <div className="project-button">
-        <Button variant="primary" href={props.link} target="_blank">
+        <Button variant="btn primary-btn" href={props.link} target="_blank">
           <BiLinkExternal /> &nbsp;
           {props.isBlog ? "View Blog" : "View Project"}
         </Button>
-        <Button variant="primary" href={props.link2} target="_blank">
+        <Button style={{marginLeft:"30px"}} variant="btn primary-btn" href={props.link2} target="_blank">
           <BiLinkExternal /> &nbsp;
           {props.isBlog ? "View Blog" : "Source Code"}
         </Button>

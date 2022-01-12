@@ -2,10 +2,10 @@
 .contact{
     background-color: white;
     padding-bottom: 100px;
-    z-index: 3;
+    z-index: 1;
+    text-align: center;
 }
 .contact-container{
-    display: flex;
     width: 80%;
     margin: auto;
     padding: 10px;
@@ -14,7 +14,7 @@
 
 }
 .contact-images{
-    width: 50%;
+    width: 100%;
     color: white;
 }
 .contact-heading>h1{
@@ -53,12 +53,41 @@ form>input{
 .send-btn-size{
     width: 170px;
 }
-@media screen and (max-width:810px) {
 
+.contact-icon>img{
+    width: 150px !important;
+    background-color: white;
+
+}
+.contact-icon img:hover{
+    transform: scale(1.5);
+}
+@media screen and (max-width:810px) {
+    .contact{
+
+        margin-top: 50px;
+    }
 }
 
 @media screen and (max-width:375px) {
     .contact-container{
         display: block;
     }
+}
+
+.site-manufacturer{
+    margin-top: 30px;
+
+}
+.handup-div{
+    display: flex;
+    align-self:flex-end;
+    margin-left: 93%;
+    margin-top: -3rem;
+  
+}
+.handup-img{
+    width: 40px;
+   
+   
 }
