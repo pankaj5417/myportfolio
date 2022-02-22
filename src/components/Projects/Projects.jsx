@@ -54,7 +54,20 @@ function Projects() {
             />
           </Col>
 
-          
+          <Col md={6} className="project-card">
+            <ProjectCards
+              imgPath={faasosimg}
+              isBlog={false}
+              title="Faasos.com Clone"
+              description={<div  className="project-card-text"><p>This is the Clone of Faasos.com an online food delivery web app.
+                We were a team of 7 members and made this web app in 5 days during the Unit-4 construct
+                 week at Masai School.This website is made with backend integration.This website consists of many cool functalities like filtering ,
+                  search with debouncing,api,location based address,coupon and many more.  </p>
+                  <h3>Tech Stack:</h3> <p>HTML5,CSS,JAVASCRIPT,MONGODB,EXPRESS, NODEJS </p></div>}
+              link="https://faasosclone2.herokuapp.com/" target="_blank"
+              link2="https://github.com/pankaj5417/FaasosClone2.git" target="_blank"
+            />
+          </Col>
 
           
         </Row>
