@@ -47,7 +47,7 @@ export default function Profile() {
 
                   </h1>
                   <span className="profile-role-tagline">
-                      Knack of building application with frontend and backend operations.
+                     Passionate of building applications with frontend and backend operations.
                   </span>
               </span>
           </div>
