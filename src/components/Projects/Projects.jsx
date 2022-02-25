@@ -4,6 +4,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import "./Project.css"
 import faasosimg from "../../assets/Home/faasosimg.png";
 import koovsimg from "../../assets/Home/koovsimg.png";
+import policyimg from "../../assets/Home/policybaazarfront.png"
 
 import Particle from "./Particle";
 import ProjectCards from "./ProjectCards";
@@ -66,6 +67,21 @@ function Projects() {
                   <h3>Tech Stack:</h3> <p>HTML5,CSS,JAVASCRIPT,MONGODB,EXPRESS, NODEJS </p></div>}
               link="https://faasosclone2.herokuapp.com/" target="_blank"
               link2="https://github.com/pankaj5417/FaasosClone2.git" target="_blank"
+            />
+          </Col>
+
+          <Col md={6} className="project-card">
+            <ProjectCards
+              imgPath={policyimg}
+              isBlog={false}
+              title="Policybaazar.com Clone"
+              description={<div  className="project-card-text"><p>This is the Clone of Policybaazar.com an online food delivery web app.
+                We were a team of 5 members and made this web app in 5 days during the Unit-5 construct
+                 week at Masai School.This website is made using React, redux, Material UI and json-server as backend. One can buy the insurance policy 
+                 of their choice,filter the policy of their choice and many more.  </p>
+                  <h3>Tech Stack:</h3> <p>HTML5,CSS, REACTJS, REDUX, MATERIAL UI, JSON SERVER </p></div>}
+              link="https://policybaazar.herokuapp.com/" target="_blank"
+              link2="https://github.com/pankaj5417/policy-bazaar-clone.git" target="_blank"
             />
           </Col>
 
