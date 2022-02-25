@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.047c7c4e.css",
-    "main.js": "/myportfolio/static/js/main.dd4b702f.js",
-    "static/js/787.d654f937.chunk.js": "/myportfolio/static/js/787.d654f937.chunk.js",
+    "main.css": "/myportfolio/static/css/main.84c49a52.css",
+    "main.js": "/myportfolio/static/js/main.d3fb0512.js",
+    "static/js/787.9b9c0edf.chunk.js": "/myportfolio/static/js/787.9b9c0edf.chunk.js",
     "static/media/koovsimg.png": "/myportfolio/static/media/koovsimg.d989123c7ce767f95ce3.png",
     "static/media/faasosimg.png": "/myportfolio/static/media/faasosimg.817b1ec9b864a2308e90.png",
     "static/media/ProfilePic.png": "/myportfolio/static/media/ProfilePic.8f6316d5c12f3c30657b.png",
     "static/media/Macintosh-Best-Wallpaper-84480.jpg": "/myportfolio/static/media/Macintosh-Best-Wallpaper-84480.f90885057f8fe309e823.jpg",
     "static/media/Modern-Tech-Best-Wallpaper-35665.jpg": "/myportfolio/static/media/Modern-Tech-Best-Wallpaper-35665.c10d7d44d8907d99b18b.jpg",
+    "static/media/policybaazarfront.png": "/myportfolio/static/media/policybaazarfront.b683d394d186bc0311ed.png",
     "static/media/Poppins-Thin.ttf": "/myportfolio/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
     "static/media/Poppins-Light.ttf": "/myportfolio/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
     "static/media/Poppins-Regular.ttf": "/myportfolio/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
@@ -27,12 +28,12 @@
     "static/media/icons8-javascript-logo.svg": "/myportfolio/static/media/icons8-javascript-logo.c44ca070b55344b816e4855973b3aba8.svg",
     "static/media/icons8-css3.svg": "/myportfolio/static/media/icons8-css3.e372ed0e706aa6d04b0a6df274b1c32f.svg",
     "static/media/icons8-html-5.svg": "/myportfolio/static/media/icons8-html-5.7260a0dd4550bb5dd809de5259c592e8.svg",
-    "main.047c7c4e.css.map": "/myportfolio/static/css/main.047c7c4e.css.map",
-    "main.dd4b702f.js.map": "/myportfolio/static/js/main.dd4b702f.js.map",
-    "787.d654f937.chunk.js.map": "/myportfolio/static/js/787.d654f937.chunk.js.map"
+    "main.84c49a52.css.map": "/myportfolio/static/css/main.84c49a52.css.map",
+    "main.d3fb0512.js.map": "/myportfolio/static/js/main.d3fb0512.js.map",
+    "787.9b9c0edf.chunk.js.map": "/myportfolio/static/js/787.9b9c0edf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.047c7c4e.css",
-    "static/js/main.dd4b702f.js"
+    "static/css/main.84c49a52.css",
+    "static/js/main.d3fb0512.js"
   ]
 }
