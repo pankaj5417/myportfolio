@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap');
 
 #navbarSupportedContent{
-    background-color: #112031;
+    background-color: #0F1624;;
 }
 body{
     font-family: "Roboto Condensed" sans-serif;  
@@ -47,9 +47,9 @@ ul li:after {
 .navbar2{
     height: 100px;
     color: white;
-    z-index: 10;
+    z-index: 99999;
     position: sticky;
-    background-color: #112031 !important;
+    background-color: #0F1624 !important;
     top: 0;
     min-width: 375px;
  }

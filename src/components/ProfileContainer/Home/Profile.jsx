@@ -40,14 +40,15 @@ export default function Profile() {
                       <Typical loop={Infinity}
                       steps={[
                           "Enthusiastic Dev 😎",1000,
-                          "Full Stack Developer💻",1000,
+                          "An aspiring Full Stack Developer💻",1000,
                           "MERN Stack Dev 🔴",1000,
                           "React/Redux Dev ⚛️",1000,
                       ]}  />
 
                   </h1>
                   <span className="profile-role-tagline">
-                      Knack of building application with frontend and backend operations.
+                  Passionate about building applications with frontend and backend operations.
+ 
                   </span>
               </span>
           </div>

@@ -9,8 +9,7 @@ import Projects from './components/Projects/Projects';
 import About from './components/About';
 import TechStack from './components/TechStack/TechStack';
 import Contact from './components/contact/Contact';
-import Particle2 from './components/Projects/Particle2';
-import Particles from "react-tsparticles";
+
 import Navbar2 from './components/Navbar2';
 import Contact2 from './components/contact/Contact2';
 
@@ -21,8 +20,9 @@ function App() {
       <div className='home-container'>
       
       <Navbar2 />
-       
+     
       <Profile />
+
       <Footer />
       
     <About />

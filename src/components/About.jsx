@@ -19,12 +19,11 @@ export default function About() {
             </div>
             <div className='aboutme-text-section'>
             <div className='about-me-summary'>
-                <p>An aspiring Full stack web  developer with background 
-                    knowledge of MERN stacks with redux, along with a 
-                    knack of building applications with utmost efficiency
-                    moulded and shaped by Masai school’s intensive and immersive
-                    learning.Look forward to joining a company where I will 
-                     be able to contribute towards individual and company growth.
+                <p>An aspiring Full stack web developer with background knowledge 
+                    of MERN stacks with redux, passionate about building applications
+                     with utmost efficiency molded and shaped by Masai school’s 
+                     intensive and immersive learning. Looking forward to joining a
+                      company where I will be able to contribute towards individual and company growth.
            </p>
             </div>
             <div className='about-me-highlight'>
@@ -32,7 +31,7 @@ export default function About() {
                 <ul>
                     <li className='aboutme-highlighted-text'>Full Stack web development</li>
                     <li className='aboutme-highlighted-text'>Interactive Front End as per the design</li>
-                    <li className='aboutme-highlighted-text'>React and React Native</li>
+                    <li className='aboutme-highlighted-text'>React </li>
                     <li className='aboutme-highlighted-text'>Redux for State Mnanagement</li>
                     <li className='aboutme-highlighted-text'>Building REST API</li>
                     <li className='aboutme-highlighted-text'>Managing database</li>

@@ -3,6 +3,7 @@
     flex-direction:column ;
     justify-content: space-between;
     min-height: 670px;
-    background-image: url("../../../assets/Home/Macintosh-Best-Wallpaper-84480.jpg");
+    background-color:#0F1624;;
+    /* background-image: url("../../../assets/Home/Macintosh-Best-Wallpaper-84480.jpg"); */
 
 }

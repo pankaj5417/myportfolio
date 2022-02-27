@@ -8,7 +8,8 @@
   flex-direction:column ;
   justify-content: space-between;
   min-height: 670px;
-  background-image: url("../../assets/Home/Macintosh-Best-Wallpaper-84480.jpg");
+
+  /* background-image: url("../../assets/Home/Macintosh-Best-Wallpaper-84480.jpg"); */
 
 
 }
@@ -17,7 +18,7 @@
     text-align: center;
     padding-top: 20px !important;
     padding-bottom: 30px !important;
-    background-image: var(--section-background-color) !important;
+    /* background-image: var(--section-background-color) !important; */
 
   }
   
@@ -31,10 +32,10 @@
   }
   
   .project-card-view {
-    box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) !important;
+    box-shadow: 3px 3px 20px rgb(80 78 78 / 50%) !important;
     color: white !important;
-    background-color: transparent !important;
-    opacity: 0.6 !important;
+    background-color:     #0F1624;
+    opacity: 1.0 !important;
     transition: all 0.5s ease 0s !important;
 
     height: 730px !important;
@@ -92,6 +93,6 @@
   @media screen and (max-width:810px) {
     .project-card-view{
       min-width: 95%;
-      z-index: 1;
+      z-index: 7;
     }
   }

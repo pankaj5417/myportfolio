@@ -5,19 +5,25 @@ import Particles from "react-tsparticles";
 export default function Particle2() {
     return (
         
-            <Particles
-               params={{
-                   particles:{
-                       number:{
-                           value:30,
-                           density:{
-                               enable:true,
-                               value_area:900
-                           }
-                       }
-                   }
-               }}
-	        />
+        <Particles
+        params={{
+            "particles": {
+                "number": {
+                    "value": 50
+                },
+                "size": {
+                    "value": 3
+                }
+            },
+            "interactivity": {
+                "events": {
+                    "onhover": {
+                        "enable": true,
+                        "mode": "repulse"
+                    }
+                }
+            }
+        }} />
       
     )
 }
