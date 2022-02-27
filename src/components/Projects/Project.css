@@ -8,6 +8,7 @@
   flex-direction:column ;
   justify-content: space-between;
   min-height: 670px;
+  top: 0;
 
   /* background-image: url("../../assets/Home/Macintosh-Best-Wallpaper-84480.jpg"); */
 
@@ -34,7 +35,8 @@
   .project-card-view {
     box-shadow: 3px 3px 20px rgb(80 78 78 / 50%) !important;
     color: white !important;
-    background-color:     #0F1624;
+    background-color:  #0F1624;
+
     opacity: 1.0 !important;
     transition: all 0.5s ease 0s !important;
 
@@ -48,12 +50,6 @@
     overflow: hidden !important;
     box-shadow: 0 4px 4px 5px rgba(129, 72, 144, 0.561) !important;
   }
-  
-  
-  
-  
-  
-  
   
   .card-img-top {
     padding: 20px !important;
@@ -93,6 +89,6 @@
   @media screen and (max-width:810px) {
     .project-card-view{
       min-width: 95%;
-      z-index: 7;
+      z-index: 2;
     }
   }

@@ -12,13 +12,17 @@ import Contact from './components/contact/Contact';
 
 import Navbar2 from './components/Navbar2';
 import Contact2 from './components/contact/Contact2';
+import { Particle } from 'tsparticles';
+import Particle2 from './components/Projects/Particle2';
 
 function App() {
   return (
+    <>
+    
     <div className="App ">
      
       <div className='home-container'>
-      
+     <Particle2 id="tsparticles"/>
       <Navbar2 />
      
       <Profile />
@@ -52,6 +56,7 @@ function App() {
     </Routes>
      
     </div>
+    </>
   );
 }
 

@@ -31,7 +31,7 @@ export default function About() {
                 <ul>
                     <li className='aboutme-highlighted-text'>Full Stack web development</li>
                     <li className='aboutme-highlighted-text'>Interactive Front End as per the design</li>
-                    <li className='aboutme-highlighted-text'>React </li>
+                    <li className='aboutme-highlighted-text'>React for building user interfaces </li>
                     <li className='aboutme-highlighted-text'>Redux for State Mnanagement</li>
                     <li className='aboutme-highlighted-text'>Building REST API</li>
                     <li className='aboutme-highlighted-text'>Managing database</li>

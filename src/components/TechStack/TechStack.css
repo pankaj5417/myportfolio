@@ -1,5 +1,7 @@
 .techstack{
     background-color: white;
+    z-index: 4;
+
 }
 .techstack-container{
     width: 80%;

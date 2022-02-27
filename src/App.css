@@ -28,4 +28,10 @@
   min-width: 375px;
 
 }
-
+#tsparticles{
+  position:fixed !important;
+  height: 50vh !important;
+  width: 100vh !important;
+  z-index: 1 !important;
+ 
+}
