@@ -62,3 +62,12 @@ ul li:after {
  .navbar-toggle-collapse{
      background-color: white !important;
  }
+ .navbar-toggler{
+    padding: 0.25rem 0.75rem;
+    font-size: 1.25rem;
+    margin-top: 5px;
+    line-height: 1;
+    background-color: #fff !important;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+ }

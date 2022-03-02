@@ -2,11 +2,11 @@ import React from 'react'
 import "./Navbar2.css"
 export default function Navbar2() {
     return (
-        <nav className="navbar2 navbar-expand-lg navbar-light">
+        <nav className="navbar2 navbar-expand-lg navbar-light ">
             <div className="container">
 
-  
-  <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            {/* <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">  */}
+  <button className="navbar-toggler " type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Toggle navigation">
     <span className="navbar-toggler-icon"></span>
   </button>
 
