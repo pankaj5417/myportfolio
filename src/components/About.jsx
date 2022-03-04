@@ -20,10 +20,11 @@ export default function About() {
             <div className='aboutme-text-section'>
             <div className='about-me-summary'>
                 <p>An aspiring Full stack web developer with background knowledge 
-                    of MERN stacks with redux, passionate about building applications
-                     with utmost efficiency molded and shaped by Masai school’s 
-                     intensive and immersive learning. Looking forward to joining a
-                      company where I will be able to contribute towards individual and company growth.
+              of MERN stacks with redux, passionate about building applications 
+              with utmost efficiency molded and shaped by Masai school’s 
+             intensive and immersive learning. Looking forward to joining 
+              a company where I will be able to contribute towards the individual 
+              as well as the company's growth.
            </p>
             </div>
             <div className='about-me-highlight'>
