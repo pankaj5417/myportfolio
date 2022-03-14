@@ -49,7 +49,7 @@ export default function About() {
                   Hire Me{" "}
               </button>
               </a>
-              <a href="PANKAJ_KUMAR_6.pdf">
+              <a href="PANKAJ_KUMAR.pdf">
                   <button className="btn highlighted-btn">Get Resume</button>
               </a>
           </div>

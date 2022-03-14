@@ -50,7 +50,7 @@ export default function Contact2() {
         </div> 
         </div>
         <div className='site-manufacturer'>
-            <h4>Made By:&nbsp;&nbsp;<span>Pankaj Kumar</span></h4>
+            <h4 style={{color:"#0F1624"}}><strong>Designed By:</strong>&nbsp;&nbsp;<span style={{color:"#0F1624"}}><strong>Pankaj Kumar</strong></span></h4>
 
         </div>
         <div className='handup-div'>
